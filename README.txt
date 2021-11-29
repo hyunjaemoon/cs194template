@@ -1,7 +1,7 @@
 Name: <name>
 SID: <SID>
 Email: <email>
-Link: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/projX/<your EECS instructional account username>/
+Link: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/projX/cs194-XXX/
 
 main.py: Contains all the steps in order
   1. Part 1
