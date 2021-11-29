@@ -3,7 +3,7 @@ SID: <SID>
 Email: <email>
 Link: https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/projX/cs194-XXX/
 
-main.py: Contains all the steps in order
+main.ipynb: Contains all the steps in order
   1. Part 1
   2. Part 2
   3. B & W
